@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Programming. 日本語. Engineering
+subtitle: Programming. 日本語. Engineering.
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: Mochio-Sakura-1.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
     <p></p>
@@ -25,7 +25,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 1 # leave blank to include all the blog posts
 ---
 
 "I remember the day when Henry Taube (who won the Nobel Prize two years later) told me he didn't know how to solve the problem I was having in his area. I was a third-year graduate student and I figured that Taube knew about 1000 times more than I did (conservative estimate). If he didn't have the answer, nobody did.
