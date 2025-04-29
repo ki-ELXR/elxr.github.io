@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kielxr.github.io/sitemap.xml
+Sitemap: https://elxr.github.io/sitemap.xml
