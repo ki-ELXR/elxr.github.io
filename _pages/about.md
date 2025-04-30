@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Programming. 日本語. Engineering.
+subtitle: Programming. Engineering. 日本語. 
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -28,13 +28,7 @@ latest_posts:
   limit: 1 # leave blank to include all the blog posts
 ---
 
-"I remember the day when Henry Taube (who won the Nobel Prize two years later) told me he didn't know how to solve the problem I was having in his area. I was a third-year graduate student and I figured that Taube knew about 1000 times more than I did (conservative estimate). If he didn't have the answer, nobody did.
-That's when it hit me: nobody did. That's why it was a research problem. And being my research problem, it was up to me to solve.
-
-...The crucial lesson was that the scope of things I didn't know wasn't merely vast; it was, for all practical purposes, infinite. That realization, instead of being discouraging, was liberating. If our ignorance is infinite, the only possible course of action is to muddle through as best we can."
-
- - Martin A. Schwartz, <i>The importance of stupidity in scientific research</i>
-
+Welcome. I'm fascinated with the cross-section between art and technology and drawn to topics such as creative coding, interactive art, graphics, game development, visualization and the like. Because of my interest in Japanese language and culture, I also like to dabble in digital tools to aid language learning such as Anki and Yomitan.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
