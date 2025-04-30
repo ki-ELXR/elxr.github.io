@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: post
 title: Islamic Patterns
+date: 2025-04-30 09:30:00
 description: A implementation in C++ and Web Assembly
-img: assets/img/islamicpatterns_static_1.jpg
-importance: 1
-category: Creative Coding
-related_publications: false
-hidden: false
+tags: c++ webgl art graphics
+categories: sample-posts
+featured: true
 ---
 
 I traveled with my family to Spain in late 2024 and I was enamored with the art and architecture. More than the Christian/Catholic motifs which emphasized tangible humans and figures of Christ I was particularly interested in the Islamic designs which were subtle, and abstract.  There was a kind of mathematical elegance to them, with a simple base but extrapolated with complexity.
