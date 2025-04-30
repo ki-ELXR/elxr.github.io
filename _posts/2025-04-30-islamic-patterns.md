@@ -37,7 +37,7 @@ The Coding Train did a wonderful video tutorial on how to implement Craig Kaplan
     The Islamic Patterns App. Play with the Hankin Angle and Delta using the sliders and zoom out using the scroll wheel (pinch zoom on mobile)
 </div>
 
-Using a list of 1d points, I drew a 2d dimensional rectangle that is drawn by taking a pair of ppoints and drawing a line between them. Then I compute the normals which are rotated +/- 90 degrees from the line and translate them to edges of the line. There are 4 normals, and these 4 vectors make the 4 edges of a single rectangle. That was just to draw a single line.
+Using a list of 1d points, I drew a 2d dimensional rectangle that is drawn by taking a pair of points and drawing a line between them. Then I compute the normals which are rotated +/- 90 degrees from the line and translate them to edges of the line. There are 4 normals, and these 4 vectors make the 4 edges of a single rectangle. That was just to draw a single line.
 
 The Islamic Patterns are generated using a "Hankin Algorithm" which takes a regular polygon such as a square, emanates two "Hankin vectors" from the midpoint of each edge of the polygon, and extends those hankin vectors out until they intersect with another hankin vector. This is repeated for each edge, then the entire object is tiled across in  X and Y. The length of each hankin vector is calculated using the law of sines and the interior angle of a regular polygon.
 
