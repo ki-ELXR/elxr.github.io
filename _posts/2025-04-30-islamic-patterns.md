@@ -4,7 +4,7 @@ title: Islamic Patterns
 date: 2025-04-30 09:30:00
 description: A implementation in C++ and Web Assembly
 tags: c++ webgl art graphics
-categories: sample-posts
+categories: posts projects
 featured: true
 ---
 
